@@ -1,6 +1,8 @@
 # woothumbs_mods
 Modified files for the Woothumbs plugin for WooCommerce
 
+[About Woothumbs](https://iconicwp.com/products/woothumbs/)
+
 
 ## loop-images.php and loop-thumbnails.php
 These files replace the ones in `iconic-woothumbs/templates/`.  

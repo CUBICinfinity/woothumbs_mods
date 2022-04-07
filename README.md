@@ -13,3 +13,5 @@ This change is not compatible with Woothumbs versions 2.11 and later because the
 However, after my complaints, Iconic to added a hook, `'iconic_woothumbs_dedupe_gallery_images'`,  
 which will be of use getting this working in future versions of woothumbs.  
 Consider `add_filter( 'iconic_woothumbs_dedupe_gallery_images', '__return_false' );`
+
+Related: [My feature request](https://iconicwp.com/feature-requests/allow-separation-of-single-product-page-gallery-and-shop-category-related-wc-product-loop-images/#comment-23409)

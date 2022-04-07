@@ -1,7 +1,7 @@
 # woothumbs_mods
-Modified files for the Woothumbs plugin for WooCommerce
+Modified files for the WooThumbs plugin for WooCommerce
 
-[About Woothumbs](https://iconicwp.com/products/woothumbs/)
+[About WooThumbs by Iconic](https://iconicwp.com/products/woothumbs/)
 
 
 ## loop-images.php and loop-thumbnails.php
@@ -20,5 +20,5 @@ Related: [My feature request](https://iconicwp.com/feature-requests/allow-separa
 
 
 ## woothumbs-premium.4.10.0.zip 
-This is a copy of the compatible Woothumbs version 4.10.0 to be uploaded to WordPress in the usual way.  
+This is a copy of the compatible WooThumbs version 4.10.0 to be uploaded to WordPress in the usual way.  
 It is completely legal to use as this is under GPL v3.
